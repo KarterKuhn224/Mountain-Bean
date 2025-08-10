@@ -6,3 +6,12 @@
   <url><loc>https://karterkuhn224.github.io/prosite/gallery.html</loc></url>
   <url><loc>https://karterkuhn224.github.io/prosite/contact.html</loc></url>
 </urlset>
+<!-- before -->
+<link rel="stylesheet" href="/css/main.css">
+<a href="/prosite/about.html">About</a>
+<img src="/images/hero-beans.jpg">
+
+<!-- after -->
+<link rel="stylesheet" href="css/main.css">
+<a href="prosite/about.html">About</a>
+<img src="images/hero-beans.jpg">
